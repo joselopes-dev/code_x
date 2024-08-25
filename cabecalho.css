@@ -12,7 +12,7 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.23em;
-    background-image: url(./home-background-mobile.png);    
+    background-image: url(.home-background-mobile.png);    
 }
 
 .cabecalho__logo {
