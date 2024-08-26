@@ -21,7 +21,7 @@ body {
 /* Wrapper para o carrossel */
 .carousel-wrapper {
     display: flex;
-    background-image: url(./img/home-background-mobile.png);
+    background-image: url(./home-background-mobile.png);
 }
 
 /* Definição dos cards */
